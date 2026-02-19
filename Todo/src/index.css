@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-[#f0f2f5] min-h-screen flex justify-center p-5 text-[#213547] font-sans m-0;
+  }
+}
