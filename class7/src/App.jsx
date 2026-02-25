@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div>
       <nav style={{display : 'flex' , justifyContent: "space-between"}}>
-        <a href="/register"> hello</a>
+      <a href="/register"> hello</a>
       <Link to={"/"}><div>home</div></Link>
       <Link to={"/login"}>  <div>login</div></Link>
       <Link to={"/register"}> <div>register</div></Link>
